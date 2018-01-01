@@ -1,8 +1,0 @@
-<html>
-<head>
-<title></title>
-<script>
-alert=("this is an alert!");
-</script>
-</head>
-</html>
